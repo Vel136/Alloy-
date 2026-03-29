@@ -5,7 +5,7 @@ sourceDir = ["docs"]
 title = "Alloy"
 tagline = "Fast, allocation-free hashing for Roblox."
 url = "https://vel136.github.io"
-baseUrl = "/Alloy-/"
+baseUrl = "/Alloy/"
 
 [home]
 enabled = true

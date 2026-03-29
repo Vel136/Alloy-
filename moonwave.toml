@@ -4,8 +4,8 @@ sourceDir = ["docs"]
 [docusaurus]
 title = "Alloy"
 tagline = "Fast, allocation-free hashing for Roblox."
-url = "https://vel136.github.io/Alloy-/"
-baseUrl = "/Alloy/"
+url = "https://vel136.github.io"
+baseUrl = "/Alloy-/"
 
 [home]
 enabled = true
